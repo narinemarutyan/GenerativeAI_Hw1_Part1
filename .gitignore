@@ -1,0 +1,50 @@
+# Ignore IPython notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore .env files
+.env
+
+# Ignore editor-specific files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore system and temporary files
+.DS_Store
+Thumbs.db
+.envrc
+
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+
+# Ignore log files
+*.log
+
+# Ignore virtual environment folders
+venv/
+env/
+ENV/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files
+*.csv
+*.json
+*.pickle
+*.h5
+*.sqlite
+
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Ignore archives and packages
+*.zip
+*.tar.gz
+*.rar
+
+# Ignore any other files not listed here

@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "genai-hw1-part1"
+version = "0.1.0"
+description = ""
+authors = ["narinemarutyan <narine_m@purlin.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9.0"
+openai = "^1.12.0"
+requests = "^2.31.0"
+chainlit = "^1.0.200"
+pydantic-settings = "^2.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
